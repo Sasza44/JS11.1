@@ -1,0 +1,23 @@
+html{
+    background-color: rgb(235, 145, 72);
+}
+#text_field{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 100px;
+}
+#save_button{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: green;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    width: 500px;
+    height: 35px;
+    text-align: center;
+    padding-top: 5px;
+    margin-left: 300px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
